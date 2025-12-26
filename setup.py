@@ -31,7 +31,7 @@ base_packages = [
     "torch>=1.13.0,<3.0",
     "pandas<=3.0.0",
     "numpy>=1.21.6,< 2.0",
-    "tqdm>=4.61.2, < 4.66.0",
+    "tqdm>=4.61.2",
     "h5py",  # todo add version
     "joblib>=1.0.1,< 2.0",
     # "lime==0.2.0.1",
